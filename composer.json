@@ -1,0 +1,17 @@
+{
+    "name": "simplydi/functions",
+    "description": "A set of common PHP functions that can be used in any application",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bharat Kumar",
+            "email": "naman97034@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "files": [
+            "src/Functions.php"
+        ]
+    }
+}
